@@ -1,0 +1,23 @@
+.LEGO{
+    color: blue;
+}
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.site{
+    margin: auto;
+    width: 600px;
+    background-color: white;
+    padding: 25px;
+}
+body{
+    background-color: lightgrey;
+}
+.bigtitre{
+    text-align: center;
+}
+#source{
+    text-align: right;
+}
